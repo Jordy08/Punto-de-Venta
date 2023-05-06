@@ -1,2 +1,0 @@
-# POS
-Proyecto Programación II
