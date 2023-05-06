@@ -34,9 +34,7 @@ public class Begin {
         
         Login lo = new Login();
         lo.setVisible(true);
-        
-//        FormaPago p = new FormaPago();
-//        p.setVisible(true);
+       
     }
 
 }
