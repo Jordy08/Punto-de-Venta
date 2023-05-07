@@ -6,6 +6,10 @@ package erpvistas;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
+import java.util.ArrayList;
+import page.Efectivo;
+import page.Sinpe;
+import page.Tarjeta;
 
 /**
  *
@@ -17,7 +21,9 @@ public class Begin {
      * @param args the command line arguments
      */
     
-    
+     public static ArrayList<Efectivo> efec = new ArrayList<Efectivo>();
+    public static ArrayList<Sinpe> sin = new ArrayList<Sinpe>();
+    public static ArrayList<Tarjeta> tar = new ArrayList<Tarjeta>();
     
     public static void main(String[] args) {
 //cnxocknzxocnz
