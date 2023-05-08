@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import page.Efectivo;
 import page.Sinpe;
 import page.Tarjeta;
+import vistasPagos.FormaPago;
 
 /**
  *
@@ -40,6 +41,9 @@ public class Begin {
         
         Login lo = new Login();
         lo.setVisible(true);
+        
+//   FormaPago p = new FormaPago();
+//   p.setVisible(true);
        
     }
 

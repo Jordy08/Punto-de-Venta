@@ -151,7 +151,7 @@ public class Login extends javax.swing.JFrame {
         String user = usuario.getText();
         String pass = password.getText();
         
-        if (user.equals("pos") && pass.equals("pos123")) {
+        if (user.equals("pos") && pass.equals("pos12")) {
             FRMPOS fr = new FRMPOS(); 
             JOptionPane.showMessageDialog(null, "Bienvenido al sistema");
 //            fr.show();
